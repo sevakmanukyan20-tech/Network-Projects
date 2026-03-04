@@ -1,6 +1,7 @@
 Network Lab Projects
 
 
+
 IPv4 Subnetting Lab
 
 -Divided the network into multiple subnets using VLSM (Variable-Length Subnet Masking)
@@ -9,11 +10,13 @@ IPv4 Subnetting Lab
 
 -Verified connectivity using ping and traceroute
 
+
 VLAN & Inter-VLAN Routing
 
 -Created VLANs to segment the network and manage traffic
 -Configured Inter-VLAN routing to enable communication between VLANs
 -Assigned IP addresses to hosts and devices according to VLANs
+
 
 DHCPv4 Configuration
 
@@ -23,6 +26,7 @@ DHCPv4 Configuration
 
 -Tested address assignment and lease renewal
 
+
 SSH Secure Access
 
 -Enabled SSH on routers and switches for secure remote administration
@@ -31,6 +35,7 @@ SSH Secure Access
 
 -Verified secure connections using SSH clients
 
+
 IPv6 & SLAAC
 
 -Configured IPv6 addresses on routers and hosts
@@ -38,6 +43,7 @@ IPv6 & SLAAC
 -Implemented SLAAC (Stateless Address Autoconfiguration) for automatic host addressing
 
 -Verified IPv6 connectivity and routing
+
 
 Routing
 
